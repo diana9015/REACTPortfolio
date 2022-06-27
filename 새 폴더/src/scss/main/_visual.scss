@@ -1,8 +1,7 @@
 .visual {
 	width: 100%;
 	height: 100%;
-	position: absolute;
-	top: 0px;
+	position: relative;
 
 	.inner {
 		width: 100%;
@@ -10,9 +9,8 @@
 
 		.bannerbox {
 			position: absolute;
-			top: 0px;
 			width: 100%;
-			height: 700px;
+			height: 100vh;
 			display: block;
 			background: url(../img/main3.jpg);
 			position: relative;

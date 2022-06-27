@@ -305,7 +305,9 @@ function Join() {
 												<input
 													type='reset'
 													value='CANCEL'
-													onClick={handleReset}
+													onClick={() => {
+														handleReset();
+													}}
 												/>
 												<input
 													type='submit'

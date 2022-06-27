@@ -4,15 +4,16 @@ import { motion } from 'framer-motion';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars } from '@fortawesome/free-solid-svg-icons';
 
-function Header() {
+function Header(props) {
 	const active = {
 		color: 'white',
 	};
 	const [open, setOpen] = useState(false);
+
 	useEffect(() => {}, [open]);
 
 	return (
-		<header>
+		<header className={props.name}>
 			<div className='wrap'>
 				<h1>
 					<NavLink exact to='/' activeStyle={active}>
@@ -26,6 +27,7 @@ function Header() {
 					}}
 					className='bars'
 				/>
+
 				{open ? (
 					<div className='nav'>
 						<div className='topnav'>
@@ -49,6 +51,16 @@ function Header() {
 						</div>
 						<div className='bottomnav'>
 							<ul>
+								<li>
+									<NavLink to='/gallery' activeStyle={active}>
+										Gallery
+									</NavLink>
+								</li>
+								<li>
+									<NavLink to='/youtube' activeStyle={active}>
+										Youtube
+									</NavLink>
+								</li>
 								<li>
 									<NavLink to='/news' activeStyle={active}>
 										News
