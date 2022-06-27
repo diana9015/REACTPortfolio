@@ -69,19 +69,24 @@
 					input[id='name'] {
 						width: 48%;
 						margin-right: 4%;
+						font: normal 17px/1 'arial';
 					}
 					input[id='email'] {
 						width: 48%;
+						font: normal 17px/1 'arial';
 					}
 
 					input[id='title'] {
 						width: 100%;
+						font: normal 17px/1 'arial';
 					}
 
 					textarea {
 						width: 100%;
 						resize: none;
+						padding: 10px;
 						margin-bottom: 20px;
+						font: normal 17px/1 'arial';
 					}
 
 					input[type='submit'] {

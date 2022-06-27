@@ -8,7 +8,7 @@ function Layout(props) {
 		<section className={`content ${props.name}`} ref={frame}>
 			<div className='back'></div>
 			<div className='inner'>
-				{/* 전달된 값을 원하는 위치에 저장 */}
+				{}
 				<h1>{props.name}</h1>
 				{props.children}
 			</div>
