@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/diana9015/REACTPortfolio.git/static/css/main.c237f577.css",
-    "main.js": "/diana9015/REACTPortfolio.git/static/js/main.e7e0ed78.js",
+    "main.css": "/diana9015/REACTPortfolio.git/static/css/main.25b71205.css",
+    "main.js": "/diana9015/REACTPortfolio.git/static/js/main.0721795f.js",
     "static/media/work3.jpg": "/diana9015/REACTPortfolio.git/static/media/work3.c41824f4734d4f55a2b8.jpg",
     "static/media/square.jpg": "/diana9015/REACTPortfolio.git/static/media/square.81181dba394506a94d90.jpg",
     "static/media/furniture.jpg": "/diana9015/REACTPortfolio.git/static/media/furniture.add5890c59e56ba8aa3a.jpg",
@@ -12,11 +12,11 @@
     "static/media/member1.jpg": "/diana9015/REACTPortfolio.git/static/media/member1.fff8804a678b76e1df45.jpg",
     "static/media/bottom_main.jpg": "/diana9015/REACTPortfolio.git/static/media/bottom_main.181e5132eb7f9b29884d.jpg",
     "index.html": "/diana9015/REACTPortfolio.git/index.html",
-    "main.c237f577.css.map": "/diana9015/REACTPortfolio.git/static/css/main.c237f577.css.map",
-    "main.e7e0ed78.js.map": "/diana9015/REACTPortfolio.git/static/js/main.e7e0ed78.js.map"
+    "main.25b71205.css.map": "/diana9015/REACTPortfolio.git/static/css/main.25b71205.css.map",
+    "main.0721795f.js.map": "/diana9015/REACTPortfolio.git/static/js/main.0721795f.js.map"
   },
   "entrypoints": [
-    "static/css/main.c237f577.css",
-    "static/js/main.e7e0ed78.js"
+    "static/css/main.25b71205.css",
+    "static/js/main.0721795f.js"
   ]
 }
