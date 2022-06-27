@@ -24,8 +24,8 @@ function App() {
 		<>
 			<Switch>
 				<Route exact path='/'>
-					<Visual />
 					<Header />
+					<Visual />
 				</Route>
 
 				<Route path='/'>
