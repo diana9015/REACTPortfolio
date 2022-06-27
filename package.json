@@ -1,5 +1,5 @@
 {
-  "homepage": "https://diana9015.github.io/portfolioreact",
+  "homepage": "https://github.com/diana9015/REACTPortfolio.git",
   "name": "pf",
   "version": "0.1.0",
   "private": true,
@@ -51,7 +51,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "gh-pages": "^3.2.3"
-  }
+  "homepage": "https://github.com/diana9015/REACTPortfolio.git/"
 }
